@@ -18,7 +18,7 @@ version.
 
 ## Citing
 
-Please cite as: Lexicon Contributors (2018) Scholarly Communications Multilingual Lexicon, https://doi.org/10.5281/zenodo.1465401
+Please cite as: Lexicon Contributors (2018) Scholarly Communications Multilingual Lexicon v0.1, https://doi.org/10.5281/zenodo.1465401
 
 ## License
 

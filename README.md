@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1465401.svg)](https://doi.org/10.5281/zenodo.1465401)
+
 # Scholarly Communications Multilingual Lexicon
 
 A collection of scholarly communications and open knowledge terms with translations.
@@ -13,6 +15,10 @@ in progress and welcome feedback and suggestions.
 We welcome pull requests or issues at the [github repository](https://github.com/ccat-lab/scholarly-comms-lexicon) 
 or comments on the [Google Doc](https://docs.google.com/spreadsheets/d/1E_2TNVDc7D8awWK10KDA3UxOQwasgHFth-rqnEzw9Rw/edit?usp=sharing) 
 version.
+
+## Citing
+
+Please cite as: Lexicon Contributors (2018) Scholarly Communications Multilingual Lexicon, https://doi.org/10.5281/zenodo.1465401
 
 ## License
 

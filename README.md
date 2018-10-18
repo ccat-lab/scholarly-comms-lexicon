@@ -10,6 +10,6 @@ in progress and welcome feedback and suggestions.
 
 ## Contributing
 
-We welcome pull requests at the [github repository](https://github.com/ccat-lab/scholarly-comms-lexicon) 
+We welcome pull requests or issues at the [github repository](https://github.com/ccat-lab/scholarly-comms-lexicon) 
 or comments on the [Google Doc](https://docs.google.com/spreadsheets/d/1E_2TNVDc7D8awWK10KDA3UxOQwasgHFth-rqnEzw9Rw/edit?usp=sharing) 
 version.
